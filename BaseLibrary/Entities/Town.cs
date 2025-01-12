@@ -2,7 +2,7 @@
 
 namespace BaseLibrary.Entities
 {
-    public class Town
+    public class Town : BaseEntity
     {
     }
 }

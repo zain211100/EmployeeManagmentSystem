@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BaseLibrary.Entities
 {
-    internal class ApplicationUser :\
+    public class ApplicationUser 
     {
         public int Id { get; set; }
         public string? Name { get; set; }
