@@ -21,11 +21,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Repositeries\Implementations\" />
-	  <Folder Include="Repositeries\Contracts\" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <ProjectReference Include="..\BaseLibrary\BaseLibrary.csproj" />
 	</ItemGroup>
 
